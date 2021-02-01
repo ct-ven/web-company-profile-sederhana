@@ -3,5 +3,5 @@ Front-end
 - ReactJS
 
 Fitur Front-end 
-- animasi gambar
+- animasi text pada gambar hero
 - animasi button
