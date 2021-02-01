@@ -1,3 +1,7 @@
 Front-end
 - Bootstrap 5
 - ReactJS
+
+Fitur Front-end 
+- animasi gambar
+- animasi button
