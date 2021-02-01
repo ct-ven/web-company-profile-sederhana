@@ -5,3 +5,4 @@ Front-end
 Fitur Front-end 
 - animasi text pada gambar hero
 - animasi button
+- fitur map
